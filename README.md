@@ -21,6 +21,9 @@ This repository contains the architecture diagram and documentation for a real-t
 
 This repository serves as a reference and starting point for understanding and implementing a real-time data processing pipeline for analyzing crime incidents in Seattle. The architecture diagram provided in the repository illustrates the flow of data through various AWS services, from ingestion to analysis.
 
+## Data Architecture
+![Alt Text](https://github.com/samvit98/Seattle-Crime-Analysis/blob/main/seattle_911_final.drawio.png)
+
 ## Data Flow
 
 **1. Historical Data:** Data is exported from the Seattle data repository in CSV format, cleaned, and processed using Python. It is then ingested into an AWS S3 bucket.
