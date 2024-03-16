@@ -38,5 +38,10 @@ This repository serves as a reference and starting point for understanding and i
 
 This pipeline enables continuous ingestion, processing, and analysis of both historical and real-time crime incident data from Seattle, facilitating informed decision-making and insights for various stakeholders.
 
+
+## Seattle Crime Dashboard
+![Alt Text](https://github.com/samvit98/Seattle-Crime-Analysis/blob/main/Data%20Visual%20Seattle%20Crime.png)
+
+
 ## Tableau Visualization Link
 https://public.tableau.com/app/profile/samvit.patankar/viz/SeattleCrimeDashboard_17105458776540/Dashboard1
